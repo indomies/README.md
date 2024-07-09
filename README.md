@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ahmad kamal</h1>
+<h1 align="center">Hi 👋, I'm INDOMIE HAXOR</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on **developer**
